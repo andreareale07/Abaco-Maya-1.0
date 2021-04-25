@@ -1,4 +1,7 @@
 # Abaco-Maya-1.0
+
+![image](https://github.com/andreareale07/Abaco-Maya-1.0/blob/main/img.JPG)
+
 Note di rilascio del simulatore Abaco Maya decimale, versione 1.0 
 
    Architettura del software: 
