@@ -1,0 +1,25 @@
+Note di installazione del simulatore Abaco Maya Decimale, versione 1.0 
+
+Requisiti di sistema 
+
+   Unix/Linux, MS Windows, Mac:
+
+      Hardware:
+         - Cpu: Pentium 4 o equivalente
+         - Ram: 64 MB (consigliati 128 MB)
+         - Spazio Libero: ~100KB
+
+
+      Software:
+         - Java 1.7.x
+         - Netbeans 7.2.1
+         - JDK 7 update x
+
+
+Esecuzione
+
+  L'applicazione può essere avviata su MS Windows e Mac semplicemente facendo doppio clic sull'icona. In alternativa e per i sistemi Unix/Linux si può avviare l'applicazione da console con il comando "java -jar /PERCORSOCARTELLA/AbacoMayaDecimale.jar" (senza virgolette) dove al posto di PERCORSOCARTELLA inserire il percorso della cartella in cui risiede AbacoMayaDecimale.jar
+
+   Esempio (su Mac): java -jar desktop/bin/AbacoMayaDecimale.jar
+
+ 
